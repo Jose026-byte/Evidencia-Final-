@@ -11,27 +11,21 @@ https://github.com/Jose026-byte/Evidencia-Final-.git
     
 
 #### Configuración
-
-## Uso del programa
-# Flujo del Usuario:
-# Registro:
-El usuario llena el formulario.
-Validaciones: edad >=15, estatura 1–2.5m.
-
-Se almacena en BD.
-Inicio Sesión:
-
-Usuario ingresa credenciales.
-Validación contra BD.
-
-Inicio sesión HttpSession.
-Calcular IMC:
-
-Formulario de peso corporal.
-Validación masa > 0.
-
-Cálculo IMC y almacenamiento en BD.
-Mostrar resultado e histórico mediante AJAX desde servicio REST.
+##### Uso del programa
+       Flujo del Usuario:
+       Registro:
+       El usuario llena el formulario.
+       Validaciones: edad >=15, estatura 1–2.5m.
+       se almacena en BD.
+       Inicio Sesión:
+       Usuario ingresa credenciales.
+       Validación contra BD.
+       Inicio sesión HttpSession.
+       Calcular IMC:
+       Formulario de peso corporal.
+       Validación masa > 0.
+       Cálculo IMC y almacenamiento en BD.
+       Mostrar resultado e histórico mediante AJAX desde servicio REST.
 
 ## Créditos
 Sistema creado por Jose francisco Rosas.
