@@ -13,7 +13,7 @@ https://github.com/Jose026-byte/Evidencia-Final-.git
 #### Configuración
 
 ### Uso del programa
-Flujo del Usuario:
+####Flujo del Usuario:
 Registro:
 El usuario llena el formulario.
 Validaciones: edad >=15, estatura 1–2.5m.
