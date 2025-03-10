@@ -7,7 +7,7 @@ Smartphone
 Cuenta de Youtube
 #### Instalación
 Clona el proyecto
-
+https://github.com/Jose026-byte/Evidencia-Final-.git
     
 
 #### Configuración
